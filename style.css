@@ -329,9 +329,7 @@ body.dark-mode .contact-form input:focus,
 body.dark-mode .contact-form textarea:focus {
     border-color: var(--primary-color);
 }
-
-/* تنسيق صفحة الاتصال */
-/* حاوية نموذج الاتصال - تنظيم النموذج ومعلومات الاتصال */
+ 
 .contact-container {
     display: flex;
     flex-wrap: wrap;
